@@ -1,0 +1,3 @@
+[submodule "flink-connectors"]
+	path = flink-connectors
+	url = https://github.com/pravega/flink-connectors
